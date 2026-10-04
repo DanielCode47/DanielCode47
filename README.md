@@ -14,7 +14,7 @@ Junior IT Specialist at **Telelink Business Services** in Sofia, Bulgaria. I wor
 - **Home lab**: self-hosted services on a mini PC for testing and learning
 
 ### 📚 Currently
-- Working toward **AZ-104** (Azure Administrator) and deepening my Linux skills on the road to DevOps
+- Deepening my Linux skills on the road to DevOps
 - B.Sc. in Informatics and Computer Science, ULSIT (2026)
 
 ### 🎮 Also
