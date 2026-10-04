@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Daniel 👋
 
-<!--
-**DanielCode47/DanielCode47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior IT Specialist at **Telelink Business Services** in Sofia, Bulgaria. I work on data center infrastructure: clusters, SAN storage, virtualization and backup. On the side I build labs to automate infrastructure the way I wish it were run.
 
-Here are some ideas to get you started:
+### 🔧 What I work with
+- **Networking:** Cisco Catalyst, Meraki, WLC, FortiGate, OPNsense
+- **Virtualization:** VMware vSphere / vCenter / ESXi, Proxmox VE, LXC, Docker, QEMU
+- **Automation & CI/CD:** Ansible, GitLab CI/CD, Flux CD (GitOps), Python
+- **Monitoring:** Zabbix, Prometheus, Grafana, ElastiFlow
+- **Backup & identity:** Commvault, Microsoft Entra ID, Intune, Cisco Duo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Recent work
+- **IaC sandbox lab**: automated proof-of-concept combining Cisco Modeling Labs, Ansible, GitLab CI/CD, vCenter on vSAN and Flux CD, with Cisco Secure Access, Duo and Entra ID for access control
+- **Home lab**: self-hosted services on a mini PC for testing and learning
+
+### 📚 Currently
+- Working toward **AZ-104** (Azure Administrator) and deepening my Linux skills on the road to DevOps
+- B.Sc. in Informatics and Computer Science, ULSIT (2026)
+
+### 🎮 Also
+I've built a few games in Unity and started more web apps than I've finished.
